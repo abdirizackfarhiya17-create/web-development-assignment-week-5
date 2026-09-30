@@ -1,0 +1,25 @@
+/* Clean, modern styling for the SpendWise project */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    max-width: 400px;
+    line-weight: 1.5;
+}
